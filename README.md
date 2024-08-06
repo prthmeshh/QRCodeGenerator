@@ -1,6 +1,7 @@
-Specify the height , width and content to be stored in the QR code in the API
-Hit the API using browser : http://localhost:{PORTNUMBER}/downloadQRCode/{content}/{height}/{width}
-The QR Code will get downloaded
+Specify the height , width and content to be stored in the QR code in the API<br>
+Hit the API using browser : http://localhost:{PORTNUMBER}/downloadQRCode/{content}/{height}/{width}<br>
+The QR Code will get downloaded<br>
 
 
-<img width="305" alt="Screenshot 2024-03-26 170324" src="https://github.com/user-attachments/assets/6108b8de-8eaa-41c0-8770-a8bd6b67a14a">
+![QRCode](https://github.com/user-attachments/assets/b74000bf-e77c-4e30-bf0a-e503c049eba3)
+
