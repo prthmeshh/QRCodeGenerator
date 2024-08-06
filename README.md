@@ -2,9 +2,9 @@
 2: Hit the API using browser : http://localhost:{PORTNUMBER}/downloadQRCode/{content}/{height}/{width}<br>
 3: The QR Code will get downloaded<br>
 
+<img src="https://github.com/user-attachments/assets/b74000bf-e77c-4e30-bf0a-e503c049eba3" alt="QRCode" width="200" height="100"/>
 
-![QRCode](https://github.com/user-attachments/assets/b74000bf-e77c-4e30-bf0a-e503c049eba3)<br>
+<br>
 
-
-![d](https://github.com/user-attachments/assets/abe062e6-d2c3-465a-9898-daa83edf969a)
+<img src="https://github.com/user-attachments/assets/abe062e6-d2c3-465a-9898-daa83edf969a" alt="d" width="200" height="100"/>
 
